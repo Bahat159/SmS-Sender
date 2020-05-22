@@ -86,7 +86,7 @@ Age : n/a
 Current Location : France
 Job : Seller (I sell Office365 Sender inbox & Leads & Fud Pages, shells, cpanels, smtps, bots ...)
 
-ICQ : @UltraSender 
+ICQ : 752920323 
 Telegram : @UltraSender
 E-mail : youngxhood@gmail.com\n"""
  print(xx)
